@@ -1,3 +1,7 @@
+# Uncha Batch Background Remover for png Images
+
+## [2 Minute Video Demonstration](https://youtu.be/wbjmltaJSnk?si=5yTFNpAzOgBgU7Dy)
+
 # bg_remover
 
 bg remover is a python program meant to be ran inside of an editor, use any editor that has access to os. First setup a folder where you'll keep you images that need the bg removed, then create an empty folder in another location where the images with transparent backgrounds will get saved.
